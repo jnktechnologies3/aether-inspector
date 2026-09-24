@@ -1,0 +1,11 @@
+node_modules/
+dist/
+ui/dist/
+data/sessions.jsonl
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.vite/
